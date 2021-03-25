@@ -1,0 +1,10 @@
+
+# 忽略所有文件
+*
+
+# 不忽略文件.gitignore和*.foo
+!.gitignore
+!js/
+!static
+!index.ois.js
+!index.android.js
